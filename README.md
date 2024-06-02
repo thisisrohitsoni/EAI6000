@@ -3,5 +3,6 @@ This repository contains projects I completed for the Fundamentals of Artificial
 <br>
 Author - Rohit Soni
 <br>
-Professor - Richard He <br>
+Professor - Richard He 
+<br>
 University - Northeastern University, Boston
