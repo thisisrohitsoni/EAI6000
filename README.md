@@ -2,5 +2,6 @@
 This repository contains projects I completed for the Fundamentals of Artificial Intelligence course.
 <br>
 Author - Rohit Soni
-Professor - Richard He
+<br>
+Professor - Richard He <br>
 University - Northeastern University, Boston
