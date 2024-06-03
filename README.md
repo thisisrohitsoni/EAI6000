@@ -1,4 +1,4 @@
-# EAI6000
+# EAI6000 Github
 This repository contains projects I completed for the Fundamentals of Artificial Intelligence course.
 <br>
 Author - Rohit Soni
